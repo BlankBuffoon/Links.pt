@@ -2,7 +2,7 @@
 
 Список ссылок которые могут потеряться, забыться. А также полезные при обучении/работе ссылки
 
-## Содержание
+## Поиск
 
 <div style="display: flex; gap: 10px">
 <a href="#letter_ru_1">А</a>
@@ -66,7 +66,12 @@
 <a href="#letter_eng_26">Z</a>
 </div>
 
-# RUS
+# Russian
+
+<a id="letter_ru_4"></a>
+### Г
+
+- [Git](/data/git.md)
 
 <a id="letter_ru_5"></a>
 ### Д
@@ -78,12 +83,18 @@
 
 - [Red Hat Openshift](/data/red-hat-openshift.md)
 
-# ENG
+# English
 
 <a id="letter_ru_4"></a>
 ### D
 
 - [Docker](/data/docker.md)
+
+
+<a id="letter_ru_7"></a>
+### G
+
+- [Git](/data/git.md)
 
 <a id="letter_ru_15"></a>
 ### O
