@@ -106,12 +106,12 @@
 - [Документация всего](https://devdocs.io/)
 - [Docker](/data/docker.md)
 - [Git](/data/git.md)
-- [Команды для терминала](/data/terminal.md)
+- [Терминал](/data/terminal.md)
 
 ## Обучение
 
 - [Red Hat Openshift](/data/red-hat-openshift.md)
 - [Паттерны разработки](/data/development-patterns.md)
 - [Базы Данных](/data/databases.md)
-- [Laravel](/data/laravel.md)
 - [API](/data/api.md)
+- [Laravel](/data/laravel.md)
