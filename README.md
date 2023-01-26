@@ -2,7 +2,7 @@
 
 Список ссылок которые могут потеряться, забыться. А также полезные при обучении/работе ссылки
 
-## Поиск
+<!-- ## Поиск
 
 <div style="display: flex; gap: 10px">
 <a href="#letter_ru_1">А</a>
@@ -99,4 +99,19 @@
 <a id="letter_ru_15"></a>
 ### O
 
+- [Red Hat Openshift](/data/red-hat-openshift.md) -->
+
+## Основное
+
+- [Документация всего](https://devdocs.io/)
+- [Docker](/data/docker.md)
+- [Git](/data/git.md)
+- [Команды для терминала](/data/terminal.md)
+
+## Обучение
+
 - [Red Hat Openshift](/data/red-hat-openshift.md)
+- [Паттерны разработки](/data/development-patterns.md)
+- [Базы Данных](/data/databases.md)
+- [Laravel](/data/laravel.md)
+- [API](/data/api.md)
