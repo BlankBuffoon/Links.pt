@@ -11,7 +11,7 @@
 
 ## Изучение БД
 
-- [MySQL](/data/mysql.md)
-- [PostgreSQL](/data/postgres.md)
-- [Redis](/data/redis.md)
-- [MongoDB](/data/mongo.md)
+- [MySQL (раздел)](/data/mysql.md)
+- [PostgreSQL (раздел)](/data/postgres.md)
+- [Redis (раздел)](/data/redis.md)
+- [MongoDB (раздел)](/data/mongo.md)
