@@ -6,3 +6,4 @@
 - [Хорошие уроки по очередям](https://laravel.demiart.ru/jobs-and-queues-part-1-analytic-app/)
 - [Что такое RabbitMQ (ENG)](https://www.youtube.com/watch?v=7rkeORD4jSw)
 - [RabbitMQ для профессионалов](http://onreader.mdl.ru/RabbitMQInDepth/content/index.html)
+- [RabbitMQ. Терминология и базовые сущности](https://habr.com/ru/company/southbridge/blog/703060/)
