@@ -120,7 +120,7 @@
 - [API (раздел)](/data/api.md)
 - [Laravel (раздел)](/data/laravel.md)
 - [Микросервисы (раздел)](/data/microservices.md)
-- [Rabbit MQ](/data/rabitmq.md)
+- [Rabbit MQ (раздел)](/data/rabitmq.md)
 
 ## Добавление новых ссылок
 
